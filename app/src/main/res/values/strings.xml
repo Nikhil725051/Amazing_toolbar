@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Amazing toolbar</string>
+    <string name="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Phasellus sed blandit arcu. Nunc quis porttitor nulla, vitae commodo arcu.
+        Nam maximus leo ac sagittis volutpat. Nam vitae augue consectetur,
+        dignissim metus et, congue ex. Duis blandit, leo in pharetra laoreet,
+        libero nunc congue leo, ut bibendum sapien turpis a mi.
+        Phasellus molestie imperdiet bibendum. Suspendisse quis arcu ullamcorper,
+        posuere augue ut, blandit neque. Duis ac ligula quis erat consectetur
+        porta id a justo. Nunc accumsan, est quis dictum scelerisque,
+        odio libero pellentesque turpis, nec efficitur urna leo eu
+        ex. Aliquam molestie justo sed augue consequat, nec dictum dui
+        consectetur. Suspendisse luctus arcu sapien, vel mollis sem
+        venenatis nec. Donec ullamcorper ac nunc sit amet gravida.</string>
+</resources>
